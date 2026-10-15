@@ -1,0 +1,7 @@
+Process count: 334
+Services (Working/Stopped): 134 / 165
+Error count (48h): 6
+Disc C: Free: 144.91 gb
+Disc E: Free: 158.95 gb
+
+Skaitļi atšķiras no iepriekšējiem uzdevumiem. Procesu skaits mainījās no 323 uz 334, jo dators pastāvīgi atver un aizver programmas. Servisi mainījās, jo daži ieslēdzas tikai pēc vajadzības. Kļūdas mainījās, jo pagāja laiks. Diska vieta mainījās, jo dators veido pagaidu failus. Šie skaitļi vienmēr būs citādāki.

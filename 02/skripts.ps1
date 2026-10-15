@@ -1,0 +1,1 @@
+﻿get-process | sort-object workingset -descending | select-object -first 10 | sort-object workingset | select-object Name, ID, @{name="Atmiņa (MD)"; expression={[math]::round($_.workingset / 1mb, 1)}}

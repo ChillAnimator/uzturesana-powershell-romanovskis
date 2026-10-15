@@ -1,0 +1,4 @@
+Get-Service time: 6.7261 ms
+Get-CimInstance time: 524.3971 ms
+
+Get-Service bija atraks. Starpibai ir nozime, jo Get-Service ir specializets cmdlet, kas strdda tieši, bet Get-CimInstance izmanto WMI, kas ir lenaks

@@ -1,0 +1,6 @@
+Datoru nosaukums: ARTUR
+OS: Microsoft Windows 11 Home
+Buvejuma numurs: 26300
+PS Versija: 5.1.26100.9711
+Datums n Laiks: 10/15/2026 20:37:09
+Procesu skaits: 323

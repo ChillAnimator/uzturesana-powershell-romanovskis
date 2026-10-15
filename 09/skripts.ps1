@@ -1,0 +1,1 @@
+﻿get-process -includeusername | select-object Name, ID, Username

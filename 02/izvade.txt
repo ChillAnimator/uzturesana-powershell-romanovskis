@@ -1,0 +1,12 @@
+Name                  Id Atmiņa (MD)
+----                  -- -----------
+steamwebhelper     30068         475
+opera              23992       480.5
+opera              22944         482
+opera              26776       533.6
+opera              21848       534.8
+opera              20148       605.5
+Discord            19608       662.9
+opera              21236         779
+Memory Compression  3300      1524.3
+cs2                32820      1631.1
